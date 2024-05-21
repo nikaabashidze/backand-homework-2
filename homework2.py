@@ -1,5 +1,5 @@
 
-#  Homework 1
+#  HOMEWORK 1
 
 
 
@@ -47,7 +47,7 @@ print ( "The minimal date is" ,  min_value)
 
 
 
-# Homework 2 
+# # HOMEWORK 2 
 
 
 # def factorial(n):

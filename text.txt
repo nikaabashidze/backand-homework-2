@@ -1,8 +1,0 @@
-
- my_list = {
-     "name": "Nika",
-     "lustname":"Abashidze",
-     "age": 24,
-
-            }
-            
