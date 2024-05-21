@@ -29,7 +29,6 @@ best_movies = {
 
 
 def find_min_value(data):
-    # Get all numeric values from the dictionary
     numeric_values = [value for value in data.values() ]
     
     return min(numeric_values) 
@@ -47,19 +46,19 @@ print ( "The minimal date is" ,  min_value)
 
 
 
-# # HOMEWORK 2 
+# HOMEWORK 2 
 
 
-# def factorial(n):
+def factorial(n):
     
     
-#     if n == 0:
-#         return 1
-#     else:
-#         return n * factorial(n-1)
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
 
 
-# print (factorial(6))
+print (factorial(6))
 
 
 
